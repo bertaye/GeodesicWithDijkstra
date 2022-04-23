@@ -1,7 +1,7 @@
 # GeodesicWithDijkstra
 Geodesic Distance Calculator with Dijkstra Algorithm.
 
-Calculates shortest path on a mesh with Dijkstra's Algorithm. Here are some results:
+Calculates shortest path between two random vertices on a mesh with Dijkstra's Algorithm. Here are some results:
 
 
 <img width="214" alt="1" src="https://user-images.githubusercontent.com/39909689/164933901-46a3eb83-723f-4428-8c80-bedbfdc76ea9.png">
